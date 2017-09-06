@@ -1,0 +1,25 @@
+.enName{
+	margin-left:10px;
+	
+}
+.celebrityImg{
+	border-radius: 10px;
+	box-shadow:1px 1px 1px 1px #000;
+}
+.content{
+	margin:0;
+	padding:0;
+	margin-left:20px;
+}
+.more{
+	margin-bottom:20px;
+}
+.img{
+	border-radius: 10px;
+	box-shadow:1px 1px 1px 1px #000;
+}
+.text{
+	margin-left:10px;
+	font:bold 16px/30px arial;
+	
+}

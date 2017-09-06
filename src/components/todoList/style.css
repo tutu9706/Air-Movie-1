@@ -1,0 +1,12 @@
+.todoImg{
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px 1px #000;
+	margin-right:20px;
+}
+.todoText{
+	font:bold 16px/30px arial;
+}
+.todoSummary{
+	font:bold 16px/30px arial;
+	margin-top:20px;
+}
